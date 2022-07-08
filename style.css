@@ -1,0 +1,43 @@
+#Unique {
+    font-size: 50px;
+    color: white;
+}
+
+body {
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+
+}
+
+#div1 {
+    text-align: center;
+    background-image: url(donate-today-main/images/donation1.jpg);
+
+
+}
+
+.paragraph {
+    color: white;
+}
+
+#name {
+    text-align: center;
+}
+
+#big {
+    color: orange;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#newone {
+    text-align: center;
+}
