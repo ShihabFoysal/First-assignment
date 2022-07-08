@@ -61,3 +61,29 @@ body {
     background-image: url(donate-today-main/icons/Frame-1.png);
     background-repeat: no-repeat;
 }
+
+#sajano {
+    display: flex;
+}
+
+.zero {
+    width: 50%;
+    margin-top: 40px;
+}
+
+.zero img {
+    width: 90%;
+}
+
+#soja {
+    text-align: center;
+}
+
+#last {
+    text-align: center;
+}
+
+#last-one {
+    color: red;
+    background-color: black;
+}
