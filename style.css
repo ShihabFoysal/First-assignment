@@ -41,3 +41,23 @@ body {
 #newone {
     text-align: center;
 }
+
+.new {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#one {
+    background-image: url(donate-today-main/icons/food.png);
+    background-repeat: no-repeat;
+}
+
+#two {
+    background-image: url(donate-today-main/icons/shelter.png);
+    background-repeat: no-repeat;
+}
+
+#three {
+    background-image: url(donate-today-main/icons/Frame-1.png);
+    background-repeat: no-repeat;
+}
